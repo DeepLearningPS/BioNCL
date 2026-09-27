@@ -1,0 +1,25 @@
+bioarx::HumGenHumGen:Gene:Gene	0
+GNBR::Sa::Compound:Disease	1
+INTACT::PHYSICAL ASSOCIATION::Gene:Gene	2
+Hetionet::AdG::Anatomy:Gene	3
+STRING::INHIBITION::Gene:Gene	4
+GNBR::J::Gene:Disease	5
+GNBR::Q::Gene:Gene	6
+Hetionet::CuG::Compound:Gene	7
+Hetionet::GpCC::Gene:Cellular Component	8
+STRING::ACTIVATION::Gene:Gene	9
+INTACT::ASSOCIATION::Gene:Gene	10
+Hetionet::DaG::Disease:Gene	11
+Hetionet::AuG::Anatomy:Gene	12
+GNBR::L::Gene:Disease	13
+Hetionet::CdG::Compound:Gene	14
+bioarx::DrugHumGen:Compound:Gene	15
+Hetionet::GpPW::Gene:Pathway	16
+DRUGBANK::x-atc::Compound:Atc	17
+Hetionet::GpMF::Gene:Molecular Function	18
+GNBR::E::Compound:Gene	19
+GNBR::T::Compound:Disease	20
+Hetionet::GcG::Gene:Gene	21
+DRUGBANK::target::Compound:Gene	22
+STRING::PTMOD::Gene:Gene	23
+GNBR::in_tax::Gene:Tax	24

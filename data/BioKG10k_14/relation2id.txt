@@ -1,0 +1,14 @@
+inc_expr	0
+decrease_therapeutic_efficacy	1
+dec_expr	2
+DPI	3
+increase_therapeutic_efficacy	4
+increase_hyperglycemia	5
+increase_hyperkalemia	6
+increase_hypoglycemia	7
+phosphorylates	8
+decrease_hypoglycemia	9
+increase_hyponatremia	10
+increase_hypercalcemia	11
+increase_hypokalemia	12
+increase_hypocalcemia	13
